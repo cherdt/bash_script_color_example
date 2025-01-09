@@ -17,3 +17,7 @@ Usage:
 You might need to add the execute bit:
 
     chmod +x colors.sh
+
+Sample output:
+
+![sample output of script showcasing text in different colors](colors_sh_sample_output.png)
