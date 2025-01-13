@@ -10,6 +10,7 @@ Color codes via https://talyian.github.io/ansicolors/
 
 
 Usage:
+------
 
     ./colors.sh
 
